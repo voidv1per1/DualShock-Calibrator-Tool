@@ -46,7 +46,7 @@ Once both calibrations are complete:
 
 > ⚠️ **Important:** Make sure both the **Stick Center** and **Stick Range** calibrations are completed before saving.
 
-6. Disconnect Your Controller
+## 6. Disconnect Your Controller
 
 After everything has been saved:
 
